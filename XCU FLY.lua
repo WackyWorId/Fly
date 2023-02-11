@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-    Title = "Credits";
-    Text = "Modified By SpekzZ";
+    Title = "Made by";
+    Text = "XCU HUB";
     Duration = 3.5;
 })
 -- Gui to Lua
